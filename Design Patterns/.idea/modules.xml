@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Decorator pattern/Decorator pattern.iml" filepath="$PROJECT_DIR$/Decorator pattern/Decorator pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Design Patterns.iml" filepath="$PROJECT_DIR$/.idea/Design Patterns.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Factory Pattern/Factory Pattern.iml" filepath="$PROJECT_DIR$/Factory Pattern/Factory Pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/builder pattern/builder pattern.iml" filepath="$PROJECT_DIR$/builder pattern/builder pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/observer pattern/observer pattern.iml" filepath="$PROJECT_DIR$/observer pattern/observer pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/stratergy Pattern/stratergy Pattern.iml" filepath="$PROJECT_DIR$/stratergy Pattern/stratergy Pattern.iml" />
