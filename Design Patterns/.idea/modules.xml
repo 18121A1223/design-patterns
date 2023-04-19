@@ -8,6 +8,7 @@
       <module fileurl="file://$PROJECT_DIR$/Factory Pattern/Factory Pattern.iml" filepath="$PROJECT_DIR$/Factory Pattern/Factory Pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/builder pattern/builder pattern.iml" filepath="$PROJECT_DIR$/builder pattern/builder pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/observer pattern/observer pattern.iml" filepath="$PROJECT_DIR$/observer pattern/observer pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/prototype  pattern/prototype  pattern.iml" filepath="$PROJECT_DIR$/prototype  pattern/prototype  pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/stratergy Pattern/stratergy Pattern.iml" filepath="$PROJECT_DIR$/stratergy Pattern/stratergy Pattern.iml" />
     </modules>
   </component>
