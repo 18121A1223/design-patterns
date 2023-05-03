@@ -5,6 +5,8 @@
       <module fileurl="file://$PROJECT_DIR$/AbstractFactoryPattern/AbstractFactoryPattern.iml" filepath="$PROJECT_DIR$/AbstractFactoryPattern/AbstractFactoryPattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/Adapter Pattern/Adapter Pattern.iml" filepath="$PROJECT_DIR$/Adapter Pattern/Adapter Pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/Bridge Pattern/Bridge Pattern.iml" filepath="$PROJECT_DIR$/Bridge Pattern/Bridge Pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Command Pattern/Command Pattern.iml" filepath="$PROJECT_DIR$/Command Pattern/Command Pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Composite Pattern/Composite Pattern.iml" filepath="$PROJECT_DIR$/Composite Pattern/Composite Pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/Decorator pattern/Decorator pattern.iml" filepath="$PROJECT_DIR$/Decorator pattern/Decorator pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Design Patterns.iml" filepath="$PROJECT_DIR$/.idea/Design Patterns.iml" />
       <module fileurl="file://$PROJECT_DIR$/Factory Pattern/Factory Pattern.iml" filepath="$PROJECT_DIR$/Factory Pattern/Factory Pattern.iml" />
