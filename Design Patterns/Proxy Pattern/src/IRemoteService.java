@@ -1,2 +1,3 @@
-package PACKAGE_NAME;public interface IRemoteService {
+public interface IRemoteService {
+    void operation();
 }
